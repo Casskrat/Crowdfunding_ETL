@@ -34,8 +34,5 @@ CREATE TABLE Campaign (
 
 );
 
-select * from Contacts;
-select * from Categories;
-select * from Subcategories;
-select * from Campaign;
+
 
